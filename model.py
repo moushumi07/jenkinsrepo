@@ -5,7 +5,7 @@
 
 
 print("Docker Container Executed")
-a=input('enter your name: ')
+a="hi"
 print('Welcome',a,'to world of Dock')
 
 
